@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://tristanza.github.io/Freight-Factory/sitemap.xml
